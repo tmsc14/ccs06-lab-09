@@ -1,0 +1,17 @@
+{
+    "name": "jan/ccs06-lab09",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teree Mari S. Cabanayan",
+            "email": "cabanayan.tereemari@auf.edu.ph"
+        }
+    ]
+}
