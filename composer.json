@@ -1,5 +1,5 @@
 {
-    "name": "jan/ccs06-lab09",
+    "name": "tmsc14/ccs06-lab-09",
     "require": {
         "vlucas/phpdotenv": "^5.5"
     },
